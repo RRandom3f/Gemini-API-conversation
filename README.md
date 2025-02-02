@@ -17,10 +17,12 @@ Note: You might need a virtual environment if you are running this code on vscod
 
 # Setup:
 **clone the respository:**
-`git clone https://github.com/your-username/frak-ai-assistant.git  # Replace with your repo URL
+`git clone https://github.com/your-username/frak-ai-assistant.git
 cd frak-ai-assistant`
+
 **Set the API key**
 get the API key and set it in this line: `genai.configure(api_key="GEMINI_API_KEY")`
+
 **Test**
 Type `python3 main.py` and type your question in the input
 
