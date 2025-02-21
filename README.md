@@ -1,6 +1,6 @@
-# Frak: Your AI Voice Assistant
+# Ai Gemini Integrated chatbot
 
-This simple Python script implements a command-line interface for interacting with Google's Gemini Pro language model. It simulates Frak, an AI voice assistant designed to help users with various tasks such as setting reminders, creating lists, answering questions, summarizing information, and generating creative text formats.
+This simple Python script implements a command-line interface for interacting with Google's Gemini Pro language model. It simulates Frak, an AI chatbot designed to help users with various tasks such as setting reminders, creating lists, answering questions, summarizing information, and generating creative text formats.
 
 ## Prerequisites
 
